@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OM: Logic Network",
+  "description": "A professional social platform for deep thinking and logical reasoning, allowing users to build, share, and debate complex logic trees.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
